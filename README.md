@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;ANN+%7C+Machine+Learning+%7C+Deep+Learning;End-to-End+ML+Projects;Streamlit+App+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;" />
 </p>
 
 
